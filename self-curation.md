@@ -1,18 +1,21 @@
 ### 自我策展
 #### 基本信息
-* 姓名：刘心如
+- 姓名：刘心如
 - 学号：183014132
 - 性格：比较外向，好交谈有积极性，喜欢画画，对待事物要求态度第一
-[电子简历](http://h5.eqxiul.com/ls/XsK7rNTM)
+- [电子简历](http://h5.eqxiul.com/ls/XsK7rNTM)
+- [个人网页](http://liuxinrujiayou.gitee.io/)
 
 #### 往期python项目
 * 购物车项目
 * 颜色选择器
-* flask之web应用字母匹配[pythonanywhere链接](http://lxrzero.pythonanywhere.com/)
+* flask之web应用字母匹配
+     * [pythonanywhere链接](http://lxrzero.pythonanywhere.com/)
 * MySQL数据库
 
 #### 个人能力
 * 网页设计（HTML+CSS)
+      * [往期简单网页](http://liuxinrujiayou.gitee.io/qimoxiangmu/#)
 * SPSS数据分析
 * tableau可视化分析
 * H5交互设计
